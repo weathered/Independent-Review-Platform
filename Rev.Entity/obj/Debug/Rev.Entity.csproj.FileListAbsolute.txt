@@ -1,0 +1,4 @@
+C:\Users\Tanjim\Documents\Visual Studio 2013\Projects\oop2\Rev\Rev.Entity\bin\Debug\Rev.Entity.dll
+C:\Users\Tanjim\Documents\Visual Studio 2013\Projects\oop2\Rev\Rev.Entity\bin\Debug\Rev.Entity.pdb
+C:\Users\Tanjim\Documents\Visual Studio 2013\Projects\oop2\Rev\Rev.Entity\obj\Debug\Rev.Entity.dll
+C:\Users\Tanjim\Documents\Visual Studio 2013\Projects\oop2\Rev\Rev.Entity\obj\Debug\Rev.Entity.pdb
